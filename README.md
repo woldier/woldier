@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=woldier&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### print(Hello, World!) 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woldier&count_private=true)
+- :orange_book: Focusing on computer vision & signal processing
+- :hammer: Creator of applications and frameworks
+- :meat_on_bone: Meat lover
