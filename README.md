@@ -3,7 +3,7 @@
 
 
 
-### Hello, World! 👋
+### 👋 Hello, World! 
 
 My name is Bin Wang (王斌).
 - :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/)
