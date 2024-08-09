@@ -8,7 +8,7 @@
 My name is Bin Wang (王斌).
 - :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/)
 - :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@Mail](mailto:woldier@foxmail.com).
-- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [CDUT](https://github.com/uestcer). 𝑀𝑎𝑗𝑜𝑟 𝑖𝑛 computer science.
+- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [CDUT](https://cdut.edu.cn). 𝑀𝑎𝑗𝑜𝑟 𝑖𝑛 computer science.
 - :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
 
   
