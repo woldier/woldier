@@ -6,12 +6,12 @@
 ### Hello, World! 👋
 
 My name is Bin Wang (王斌).
-
+- :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/)
+- :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@Mail](mailto:woldier@foxmail.com).
 - :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [CDUT](https://github.com/uestcer). 𝑀𝑎𝑗𝑜𝑟 𝑖𝑛 computer science.
 - :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
-- :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@Mail](mailto:woldier@foxmail.com).
-- :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/)
 
+  
 I am a master's student at  College of Computer Science and Cyber Security, Chengdu University of Technology, supervised by Fei Deng.
 
 Before that, I obtained my Bachelor's Degree in Computer Science from  the Chengdu University of Technology.
