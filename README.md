@@ -47,7 +47,7 @@ I am a master's student at  College of Computer Science and Cyber Security, Chen
 Before that, I obtained my Bachelor's Degree in Computer Science from  the Chengdu University of Technology.
 
 - **MS in Computer Science and Technology** (2022.06 - Present), College of **Computer Science and Cyber Security**, Chengdu University of Technology
-- **BS in Computer Science and Technology** (2018.09-2024.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology
+- **BS in Computer Science and Technology** (2018.09-2022.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology
 
 ---
 
