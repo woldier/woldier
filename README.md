@@ -23,7 +23,7 @@ My goal is to leverage these technologies to solve complex problems in **medical
 
 - :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/) — Check out my personal website for more information.
 - :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [**_@Mail_**](mailto:woldier@foxmail.com) — Feel free to get in touch!
-- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [**_CDUT_**](https://www.cdut.edu.cn/index.htm) — Currently studying **computer science** at CDUT.
+- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [**_SCU_**](https://www.scu.edu.cn/index.htm) — Currently studying **computer science** at SCU.
 - :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 
 
 
@@ -44,9 +44,10 @@ Feel free to check out some of my research work: [**_Publications_**](https://wo
 ### 👩‍🎓 Education
 I am a master's student at  College of Computer Science and Cyber Security, Chengdu University of Technology, supervised by Fei Deng.
 
-Before that, I obtained my Bachelor's Degree in Computer Science from  the Chengdu University of Technology.
+Before that, I obtained my Bachelor's Degree and Master's Degree in Computer Science from  the Chengdu University of Technology.
 
-- **MS in Computer Science and Technology** (2022.06 - Present), College of **Computer Science and Cyber Security**, Chengdu University of Technology
+- **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University
+- **MS in Computer Science and Technology** (2022.06 - 2025.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology
 - **BS in Computer Science and Technology** (2018.09-2022.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology
 
 ---
