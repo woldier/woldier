@@ -57,11 +57,9 @@ Before that, I obtained my Bachelor's Degree and Master's Degree in Computer Sci
 
 ### 🛠 Skills Highlights
 
-- Generative AI (Medical Image)
 - Medical Image Processing, such as Reconstruction
 - Remote Sensing Image Processing, such as Semantic Segmentation
 - Signal processing techniques (Experience in TEM, EEG, etc.)
-- Multimodal AI
 
 ---
 ### 🔭 Research interest
