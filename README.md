@@ -28,10 +28,6 @@ My goal is to leverage these technologies to solve complex problems in **medical
 
 
 
----
-
-### 🚀 A Little More About Me
-
 I'm constantly pushing myself to stay at the forefront of technology. Whether it's building new projects, contributing to **research papers**, or experimenting with innovative **AI algorithms**, I'm always eager to learn and grow. Here are some personal highlights:
 
 - 🧠 I have a strong passion for **machine learning** and **signal processing**, where I’ve been focusing on **multimodal AI** and **robust digital signal processing**.
