@@ -38,13 +38,13 @@ Feel free to check out some of my research work: [**_Publications_**](https://wo
 
 ---
 ### 👩‍🎓 Education
-I am a Ph.D's student at  College of Computer Science, Schuan University of Technology, supervised by Yiguang Liu.
+I am a Ph.D's student at  College of Computer Science, Schuan University, supervised by Yiguang Liu.
 
 Before that, I obtained my Bachelor's Degree and Master's Degree in Computer Science from  the Chengdu University of Technology.
 
-- **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University
+- **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University.
 - **MS in Computer Science and Technology** (2022.06 - 2025.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology, supervised by Fei Deng.
-- **BS in Computer Science and Technology** (2018.09-2022.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology
+- **BS in Computer Science and Technology** (2018.09-2022.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology, supervised by Fei Deng.
 
 ---
 
