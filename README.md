@@ -7,7 +7,7 @@
 
 I'm **Bin Wang (王斌)**, a passionate computer science researcher 
 
-and developer with a deep focus on 
+and a developer with a deep focus on 
 
  **Generative AI** and **Computer Vision**. 
 
@@ -38,9 +38,9 @@ Feel free to check out some of my research work: [**_Publications_**](https://wo
 
 ---
 ### 👩‍🎓 Education
-I am a Ph.D's student at  College of Computer Science, Schuan University, supervised by Yiguang Liu.
+I am a Ph.D student at the College of Computer Science, Sichuan University, supervised by Yiguang Liu.
 
-Before that, I obtained my Bachelor's Degree and Master's Degree in Computer Science from  the Chengdu University of Technology.
+Before that, I earned my Bachelor's and Master's Degrees in Computer Science from  the Chengdu University of Technology.
 
 - **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University.
 - **MS in Computer Science and Technology** (2022.06 - 2025.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology, supervised by Fei Deng.
@@ -64,7 +64,7 @@ Before that, I obtained my Bachelor's Degree and Master's Degree in Computer Sci
 ---
 ### 🔭 Research interest
 I'm currently working on:
-- Computer Vision and its wide applications, with an emphasis on the medical and remote sensing imaging field
+- Computer Vision and its wide applications, with an emphasis on the medical and remote sensing imaging fields
 - Robust Complex Digital Signal Processing with Machine Learning, such as TEM and EEG signals
 - Unsupervised Domain Adaptation for Semantic Segmentation
 
