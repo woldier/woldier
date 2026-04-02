@@ -21,10 +21,13 @@ My goal is to leverage these technologies to solve complex problems in **Remote 
 
 
 
-- :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](http://woldier.top/) — Check out my personal website for more information.
-- :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [**_@Mail_**](mailto:woldier@foxmail.com) — Feel free to get in touch!
-- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [**_SCU_**](https://www.scu.edu.cn/index.htm) — Currently foucusing  **Domain Adaptation** at SCU.
-- :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 
+[//]: # (- :house: [𝑷𝒓𝒐𝒇𝒊𝒍𝒆]&#40;http://woldier.top/&#41; — Check out my personal website for more information.)
+
+[//]: # (- :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [**_@Mail_**]&#40;mailto:woldier@foxmail.com&#41; — Feel free to get in touch!)
+
+[//]: # (- :school: 𝑆𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 [**_SCU_**]&#40;https://www.scu.edu.cn/index.htm&#41; — Currently foucusing  **Domain Adaptation** at SCU.)
+
+[//]: # (- :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 )
 
 
 Feel free to check out some of my research work: [**_Publications_**](https://woldier.github.io/publications/).
