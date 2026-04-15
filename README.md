@@ -9,15 +9,13 @@ I'm **Bin Wang (王斌)**, a passionate computer science researcher
 
 and a developer with a deep focus on 
 
- **Generative AI** and **Computer Vision**. 
+ **Generative Model** and **Computer Vision**. 
 
 I'm driven by the impact of technology, especially in the fields of 
 
-**Remote Sensing**, **Medical Image** and **Signal Processing**.
+**Remote Sensing**, and **Signal Processing**.
 
-I'm fascinated by the **power of AI** and its ability to transform industries. 
 
-My goal is to leverage these technologies to solve complex problems in **Remote Sensing**, **Medical Imaging**, and beyond.
 
 
 
@@ -30,7 +28,6 @@ My goal is to leverage these technologies to solve complex problems in **Remote 
 [//]: # (- :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 )
 
 
-Feel free to check out some of my research work: [**_Publications_**](https://woldier.github.io/publications/).
 
 
 ---
@@ -51,23 +48,17 @@ Before that, I earned my Bachelor's and Master's Degrees in Computer Science fro
 
 ### 🏆 Awards
 
-- National Scholarships (Top 2), Ministry of Education, China, 2024.10
-- Scholarships for postgraduate studies (Top 3), Ministry of Education, China, 2024.10
+- National Scholarships, Ministry of Education, China, 2024.10
+- Scholarships for postgraduate studies, Ministry of Education, China, 2024.10
 
----
 
-### 🛠 Skills Highlights
-
-- Medical Image Processing, such as Reconstruction
-- Remote Sensing Image Processing, such as Semantic Segmentation
-- Signal processing techniques (Experience in TEM, EEG, etc.)
 
 ---
 ### 🔭 Research interest
 I'm currently working on:
-- Computer Vision and its wide applications, with an emphasis on the medical and remote sensing imaging fields
+- Computer Vision and its wide applications, with an emphasis on the remote sensing fields
 - Robust Complex Digital Signal Processing with Machine Learning, such as TEM and EEG signals
-- Unsupervised Domain Adaptation for Semantic Segmentation
+- Domain Adaptation and Generalization for Semantic Segmentation
 
 
   
