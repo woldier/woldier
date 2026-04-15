@@ -6,7 +6,6 @@
 ### 👋 Hello, World! 
 
 I'm **Bin Wang (王斌)**, a passionate computer science researcher 
-
 and a developer with a deep focus on 
 
  **Generative Model** and **Computer Vision**. 
