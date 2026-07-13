@@ -36,12 +36,10 @@ I am a Ph.D student at the College of Computer Science, Sichuan University, supe
 Before that, I earned my Bachelor's and Master's Degrees in Computer Science from  the Chengdu University of Technology.
 
 - **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University.
-- **MS in Computer Science and Technology** (2022.06 - 2025.06), College of **Computer Science and Cyber Security**,
+- **B.S. and M.S. in Computer Science and Technology** (2018.09 - 2025.06), College of **Computer Science and Cyber Security**,
 
   Chengdu University of Technology, supervised by Fei Deng.
-- **BS in Computer Science and Technology** (2018.09-2022.06), College of **Computer Science and Cyber Security**,
 
-  Chengdu University of Technology, supervised by Fei Deng.
 
 ---
 
