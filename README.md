@@ -51,15 +51,5 @@ Before that, I earned my Bachelor's and Master's Degrees in Computer Science fro
 - Scholarships for postgraduate studies, Ministry of Education, China, 2024.10
 
 
-
----
-### 🔭 Research interest
-I'm currently working on:
-- Computer Vision and its wide applications, with an emphasis on the remote sensing fields
-- Robust Complex Digital Signal Processing with Machine Learning, such as TEM and EEG signals
-- Domain Adaptation and Generalization for Semantic Segmentation
-
-
-  
 ---
 📫 Welcome everyone to engage with me, my email address is <font color='00BFFF'><u>**_woldier@foxmail.com_**</u></font>
