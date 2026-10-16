@@ -31,11 +31,11 @@ I'm driven by the impact of technology, especially in the fields of
 
 ---
 ### 👩‍🎓 Education
-I am a Ph.D student at the College of Computer Science, Sichuan University, supervised by Yiguang Liu.
+I am a Ph.D student at the College of Computer Science, Sichuan University.
 
 Before that, I earned my Bachelor's and Master's Degrees in Computer Science from  the Chengdu University of Technology.
 
-- **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University.
+- **Ph.D in Computer Science and Technology** (2025.09 - Present), College of **Computer Science**, Sichuan University, supervised by Yiguang Liu.
 - **B.S. and M.S. in Computer Science and Technology** (2018.09 - 2025.06), College of **Computer Science and Cyber Security**, Chengdu University of Technology, supervised by Fei Deng.
 
 
@@ -43,7 +43,8 @@ Before that, I earned my Bachelor's and Master's Degrees in Computer Science fro
 
 ### 🏆 Awards
 
-- National Scholarships, Ministry of Education, China, 2024.10
+- National Scholarships (Ph.D), Ministry of Education, China, 2026.10
+- National Scholarships (Master's), Ministry of Education, China, 2024.10
 - Scholarships for postgraduate studies, Ministry of Education, China, 2024.10
 
 
